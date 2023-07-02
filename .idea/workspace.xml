@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba45b5e7-a9a0-4eeb-9113-a712731b082a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/assets/includes/data_security.php" beforeDir="false" afterPath="$PROJECT_DIR$/assets/includes/data_security.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/includes/functions_one.php" beforeDir="false" afterPath="$PROJECT_DIR$/assets/includes/functions_one.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/libraries/guzzlehttp/vendor/guzzlehttp/guzzle/src/Client.php" beforeDir="false" afterPath="$PROJECT_DIR$/assets/libraries/guzzlehttp/vendor/guzzlehttp/guzzle/src/Client.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/libraries/social-login/HttpClient/Guzzle.php" beforeDir="false" afterPath="$PROJECT_DIR$/assets/libraries/social-login/HttpClient/Guzzle.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/includes/data_security.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-85">
+              <caret line="1" column="59" selection-start-line="1" selection-start-column="54" selection-end-line="1" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/libraries/stripe-php-3.20.0/vendor/guzzle/guzzle/src/Guzzle/Http/Client.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-5668">
+              <caret line="67" column="20" selection-start-line="67" selection-start-column="20" selection-end-line="67" selection-end-column="20" />
+              <folding>
+                <element signature="e#31#60#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/libraries/social-login/HttpClient/Guzzle.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1275">
+              <caret line="103" column="20" selection-start-line="103" selection-start-column="20" selection-end-line="103" selection-end-column="20" />
+              <folding>
+                <element signature="e#210#232#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/libraries/guzzlehttp/vendor/guzzlehttp/guzzle/src/Client.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1462">
+              <caret line="61" column="20" selection-start-line="61" selection-start-column="20" selection-end-line="61" selection-end-column="20" />
+              <folding>
+                <element signature="e#29#61#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="18" column="31" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>include</find>
+      <find>PUT</find>
+      <find>guzzle</find>
+      <find>guzzlehttp/guzzle</find>
+      <find>new</find>
+      <find>makeFolder</find>
+      <find>curl_setopt_array</find>
+      <find>Wo_ShareFile</find>
+      <find>$data</find>
+      <find>put</find>
+      <find>Wo_UploadImage</find>
+      <find>name</find>
+      <find>GuzzleHttp</find>
+      <find>request</find>
+      <find>dataSecurity_uploadFile</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>GuzzleHttps</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\projects\viettel-connection\assets\includes</dir>
+      <dir>D:\projects\viettel-connection</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/api/v2/endpoints/get-site-settings.php" />
+        <option value="$PROJECT_DIR$/assets/libraries/social-login/HttpClient/Guzzle.php" />
+        <option value="$PROJECT_DIR$/assets/includes/functions_one.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/assets/libraries/spaces/aws/GuzzleHttp/Client.php" />
+        <option value="$PROJECT_DIR$/assets/libraries/s3/GuzzleHttp/Client.php" />
+        <option value="$PROJECT_DIR$/assets/libraries/guzzlehttp/vendor/guzzlehttp/guzzle/src/Client.php" />
+        <option value="$PROJECT_DIR$/assets/includes/data_security.php" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/viettel-connection.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+        <option value="$PROJECT_DIR$/.idea/jsLinters/jshint.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="64" />
+    <option name="y" value="10" />
+    <option name="width" value="1394" />
+    <option name="height" value="810" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="viettel-connection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="viettel-connection" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="viettel-connection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="viettel-connection" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="viettel-connection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="viettel-connection" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="includes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="viettel-connection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="viettel-connection" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="libraries" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="viettel-connection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="viettel-connection" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="libraries" type="462c0819:PsiDirectoryNode" />
+              <item name="guzzlehttp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="viettel-connection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="viettel-connection" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="libraries" type="462c0819:PsiDirectoryNode" />
+              <item name="guzzlehttp" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\projects\viettel-connection" />
+      <recent name="D:\projects\viettel-connection\assets\includes" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba45b5e7-a9a0-4eeb-9113-a712731b082a" name="Default Changelist" comment="" />
+      <created>1566806801011</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566806801011</updated>
+      <workItem from="1566806802620" duration="38684000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="38684000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" weight="0.07258938" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app_api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5246" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htaccess.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3166" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php.ini">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login-with.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="131" column="19" lean-forward="true" selection-start-line="131" selection-start-column="19" selection-end-line="131" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/v2/endpoints/block-user.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/phone/delete_story.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/phone/core/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8219" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/phone/create_video_call.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/windows_app/video_call_answer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-561" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/v2/Documentation.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/windows_app/core/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2660" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/windows_app/block_user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1224" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/v2/endpoints/get-site-settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="25" column="36" lean-forward="true" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/v2/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="17" lean-forward="true" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/v2/init.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/windows_app/get_user_data.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/includes/cache.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-136">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nginx.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5406" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OneSignalSDKWorker.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/libraries/stripe-php-3.20.0/vendor/phpunit/php-timer/composer.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/libraries/composer.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" column="71" selection-start-line="19" selection-start-column="71" selection-end-line="19" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/libraries/DB/composer.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/libraries/google/vendor/guzzlehttp/psr7/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="41" column="35" lean-forward="true" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/libraries/s3/GuzzleHttp/ClientInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="36" column="7" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/libraries/social-login/Hybridauth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-663">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/libraries/stripe-php-3.20.0/lib/AlipayAccount.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/libraries/onesignal/vendor/guzzlehttp/guzzle/src/Client.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2669">
+          <caret line="17" column="12" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax_loading.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5536" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/init.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="36" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload/photos/2019/08/3YGds8f5vDExAaen19tk_28_4601d2351d852a7017acada919a12ce4_image.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/libraries/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/libraries/guzzlehttp/composer.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/includes/functions_general.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="681" column="9" selection-start-line="681" selection-start-column="9" selection-end-line="681" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/includes/functions_one.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="761">
+          <caret line="1185" column="46" selection-start-line="1185" selection-start-column="25" selection-end-line="1185" selection-end-column="46" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#span#0;n#!!top" expanded="true" />
+            <marker date="1566989181971" expanded="true" signature="162226:162263" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/libraries/guzzlehttp/vendor/guzzlehttp/psr7/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/libraries/google/vendor/guzzlehttp/guzzle/src/Client.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+          <folding>
+            <element signature="e#29#61#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/libraries/guzzlehttp/vendor/guzzlehttp/guzzle/src/PrepareBodyMiddleware.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/libraries/google/vendor/composer/autoload_real.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-714" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/libraries/google/composer.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/libraries/google/vendor/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/libraries/s3/GuzzleHttp/Client.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="62" column="5" selection-start-line="62" selection-start-column="5" selection-end-line="62" selection-end-column="5" />
+          <folding>
+            <element signature="e#29#61#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/libraries/guzzlehttp/vendor/guzzlehttp/guzzle/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/libraries/spaces/aws/GuzzleHttp/Client.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="97" column="20" selection-start-line="97" selection-start-column="13" selection-end-line="97" selection-end-column="20" />
+          <folding>
+            <element signature="e#29#61#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/libraries/guzzlehttp/vendor/guzzlehttp/guzzle/src/ClientInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="53" column="20" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="18" column="31" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/libraries/guzzlehttp/vendor/guzzlehttp/guzzle/src/Client.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1462">
+          <caret line="61" column="20" selection-start-line="61" selection-start-column="20" selection-end-line="61" selection-end-column="20" />
+          <folding>
+            <element signature="e#29#61#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/libraries/social-login/HttpClient/Guzzle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="103" column="20" selection-start-line="103" selection-start-column="20" selection-end-line="103" selection-end-column="20" />
+          <folding>
+            <element signature="e#210#232#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/libraries/stripe-php-3.20.0/vendor/guzzle/guzzle/src/Guzzle/Http/Client.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5668">
+          <caret line="67" column="20" selection-start-line="67" selection-start-column="20" selection-end-line="67" selection-end-column="20" />
+          <folding>
+            <element signature="e#31#60#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/libraries/guzzlehttp/vendor/autoload.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/includes/data_security.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-85">
+          <caret line="1" column="59" selection-start-line="1" selection-start-column="54" selection-end-line="1" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
